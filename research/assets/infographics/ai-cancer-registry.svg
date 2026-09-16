@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-labelledby="title desc"><title id="title">讓每一筆癌登，都有據可查</title><desc id="desc">研究方向、方法學、目前進展與成果，以及預期用途。成果卡標示已有基礎、開發或驗證狀態。</desc>
+<defs><filter id="shadow" x="-5%" y="-5%" width="110%" height="115%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#1B3A5C" flood-opacity=".045"/></filter></defs>
+<rect width="1920" height="1080" fill="white"/>
+<g fill="none" stroke="#E5F2F2" stroke-width="22"><path d="M-60 160Q90 190 160-50"/><path d="M1780-40Q1740 100 1970 120"/><path d="M-40 960Q130 920 190 1120"/><path d="M1760 1120Q1700 1000 1970 940"/></g>
+<g stroke="#DFE8F3" stroke-width="2" fill="#EDF3F9"><path d="m24 20 65 26 40-27m-40 27 31 55M1790 20l53 37 59-28m-59 28 49 59M25 1008l68 35 46-29m1620 18 66-34 67 40"/><circle cx="24" cy="20" r="6"/><circle cx="89" cy="46" r="6"/><circle cx="129" cy="19" r="6"/><circle cx="120" cy="101" r="6"/><circle cx="1790" cy="20" r="6"/><circle cx="1843" cy="57" r="6"/><circle cx="1902" cy="29" r="6"/><circle cx="1892" cy="116" r="6"/><circle cx="25" cy="1008" r="6"/><circle cx="93" cy="1043" r="6"/><circle cx="139" cy="1014" r="6"/><circle cx="1759" cy="1032" r="6"/><circle cx="1825" cy="998" r="6"/><circle cx="1892" cy="1038" r="6"/></g>
+<text x="960" y="74" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="48" fill="#1B3A5C" font-weight="750" text-anchor="middle">讓每一筆癌登，都有據可查</text>
+<text x="960" y="122" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#52687D" font-weight="400" text-anchor="middle">AI 癌症登記研究 ｜ 讓 AI 整理資料，讓專業人員做判斷</text>
+<text x="52" y="165" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="19" fill="#63778B" font-weight="400" text-anchor="start">研究方向導讀｜用什麼資料、採用什麼方法、如何驗證</text>
+<rect x="52" y="180" width="350" height="146" rx="14" fill="white" stroke="#DFE6EC" filter="url(#shadow)"/>
+<g transform="translate(72 198) scale(1.1666666666666667)" fill="none" stroke="#2BAA9E" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="M3 9h18M9 9v12M12 13h6m-6 4h6"/></g>
+<text x="112" y="222" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#607488" font-weight="400" text-anchor="start">核心任務</text>
+<text x="74" y="268" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="35" fill="#1B3A5C" font-weight="750" text-anchor="start">2 類</text>
+<text x="74" y="303" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="21" fill="#607488" font-weight="400" text-anchor="start">個案發現與欄位擷取</text>
+<rect x="418" y="180" width="350" height="146" rx="14" fill="white" stroke="#DFE6EC" filter="url(#shadow)"/>
+<g transform="translate(438 198) scale(1.1666666666666667)" fill="none" stroke="#3B7DD8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m5 5 14 3-7 11L5 5l-1 12 15-9"/><circle cx="5" cy="5" r="2"/><circle cx="19" cy="8" r="2"/><circle cx="12" cy="19" r="2"/><circle cx="4" cy="17" r="2"/></g>
+<text x="478" y="222" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#607488" font-weight="400" text-anchor="start">病歷來源</text>
+<text x="440" y="268" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="35" fill="#1B3A5C" font-weight="750" text-anchor="start">多類文件</text>
+<text x="440" y="303" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="21" fill="#607488" font-weight="400" text-anchor="start">病理、影像與治療</text>
+<rect x="784" y="180" width="350" height="146" rx="14" fill="white" stroke="#DFE6EC" filter="url(#shadow)"/>
+<g transform="translate(804 198) scale(1.1666666666666667)" fill="none" stroke="#7B5EA7" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 6v6l4 3"/></g>
+<text x="844" y="222" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#607488" font-weight="400" text-anchor="start">答案依據</text>
+<text x="806" y="268" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="35" fill="#1B3A5C" font-weight="750" text-anchor="start">原文追溯</text>
+<text x="806" y="303" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="21" fill="#607488" font-weight="400" text-anchor="start">保留來源與時間</text>
+<rect x="1150" y="180" width="350" height="146" rx="14" fill="white" stroke="#DFE6EC" filter="url(#shadow)"/>
+<g transform="translate(1170 198) scale(1.1666666666666667)" fill="none" stroke="#4CAF7D" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="m7 12 3 3 7-7"/></g>
+<text x="1210" y="222" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#607488" font-weight="400" text-anchor="start">審核機制</text>
+<text x="1172" y="268" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="35" fill="#1B3A5C" font-weight="750" text-anchor="start">人工確認</text>
+<text x="1172" y="303" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="21" fill="#607488" font-weight="400" text-anchor="start">接受、修改或退回</text>
+<rect x="1516" y="180" width="350" height="146" rx="14" fill="white" stroke="#DFE6EC" filter="url(#shadow)"/>
+<g transform="translate(1536 198) scale(1.1666666666666667)" fill="none" stroke="#2BAA9E" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="7"/><path d="m15 15 6 6M6 10h8m-4-4v8"/></g>
+<text x="1576" y="222" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#607488" font-weight="400" text-anchor="start">交換標準</text>
+<text x="1538" y="268" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="35" fill="#1B3A5C" font-weight="750" text-anchor="start">FHIR</text>
+<text x="1538" y="303" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="21" fill="#607488" font-weight="400" text-anchor="start">保留癌登資料關聯</text>
+<rect x="52" y="350" width="422" height="346" rx="14" fill="white" stroke="#DFE6EC" filter="url(#shadow)"/>
+<rect x="72" y="371" width="53" height="48" rx="14" fill="#2BAA9E" stroke="#2BAA9E"/>
+<text x="98" y="404" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="26" fill="white" font-weight="750" text-anchor="middle">01</text>
+<text x="139" y="404" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="28" fill="#2BAA9E" font-weight="750" text-anchor="start">彙整臨床病歷</text>
+<text x="76" y="451" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#6A7B8A" font-weight="400" text-anchor="start">整合分散的癌症資訊</text>
+<path d="M76 470h374" stroke="#E7EDF1"/>
+<g transform="translate(77 492) scale(1.0416666666666667)" fill="none" stroke="#2BAA9E" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="M3 9h18M9 9v12M12 13h6m-6 4h6"/></g>
+<text x="119" y="514" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#1B3A5C" font-weight="400" text-anchor="start">蒐集病理影像報告</text>
+<g transform="translate(77 538) scale(1.0416666666666667)" fill="none" stroke="#2BAA9E" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="7"/><path d="m15 15 6 6M6 10h8m-4-4v8"/></g>
+<text x="119" y="560" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#1B3A5C" font-weight="400" text-anchor="start">整合手術治療紀錄</text>
+<g transform="translate(77 584) scale(1.0416666666666667)" fill="none" stroke="#2BAA9E" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m5 5 14 3-7 11L5 5l-1 12 15-9"/><circle cx="5" cy="5" r="2"/><circle cx="19" cy="8" r="2"/><circle cx="12" cy="19" r="2"/><circle cx="4" cy="17" r="2"/></g>
+<text x="119" y="606" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#1B3A5C" font-weight="400" text-anchor="start">保留文件日期來源</text>
+<g transform="translate(77 630) scale(1.0416666666666667)" fill="none" stroke="#2BAA9E" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="m7 12 3 3 7-7"/></g>
+<text x="119" y="652" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#1B3A5C" font-weight="400" text-anchor="start">核對前後記載差異</text>
+<text x="495" y="538" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="45" fill="#91A3B4" font-weight="500" text-anchor="middle">›</text>
+<rect x="516" y="350" width="422" height="346" rx="14" fill="white" stroke="#DFE6EC" filter="url(#shadow)"/>
+<rect x="536" y="371" width="53" height="48" rx="14" fill="#3B7DD8" stroke="#3B7DD8"/>
+<text x="562" y="404" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="26" fill="white" font-weight="750" text-anchor="middle">02</text>
+<text x="603" y="404" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="28" fill="#3B7DD8" font-weight="750" text-anchor="start">找個案與取欄位</text>
+<text x="540" y="451" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#6A7B8A" font-weight="400" text-anchor="start">語言模型整理候選答案</text>
+<path d="M540 470h374" stroke="#E7EDF1"/>
+<g transform="translate(541 492) scale(1.0416666666666667)" fill="none" stroke="#3B7DD8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="M3 9h18M9 9v12M12 13h6m-6 4h6"/></g>
+<text x="583" y="514" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#1B3A5C" font-weight="400" text-anchor="start">篩選新發癌症個案</text>
+<g transform="translate(541 538) scale(1.0416666666666667)" fill="none" stroke="#3B7DD8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="7"/><path d="m15 15 6 6M6 10h8m-4-4v8"/></g>
+<text x="583" y="560" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#1B3A5C" font-weight="400" text-anchor="start">擷取癌登所需欄位</text>
+<g transform="translate(541 584) scale(1.0416666666666667)" fill="none" stroke="#3B7DD8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m5 5 14 3-7 11L5 5l-1 12 15-9"/><circle cx="5" cy="5" r="2"/><circle cx="19" cy="8" r="2"/><circle cx="12" cy="19" r="2"/><circle cx="4" cy="17" r="2"/></g>
+<text x="583" y="606" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#1B3A5C" font-weight="400" text-anchor="start">辨識疑似與既往史</text>
+<g transform="translate(541 630) scale(1.0416666666666667)" fill="none" stroke="#3B7DD8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="m7 12 3 3 7-7"/></g>
+<text x="583" y="652" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#1B3A5C" font-weight="400" text-anchor="start">區分原發癌與轉移</text>
+<text x="959" y="538" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="45" fill="#91A3B4" font-weight="500" text-anchor="middle">›</text>
+<rect x="980" y="350" width="422" height="346" rx="14" fill="white" stroke="#DFE6EC" filter="url(#shadow)"/>
+<rect x="1000" y="371" width="53" height="48" rx="14" fill="#7B5EA7" stroke="#7B5EA7"/>
+<text x="1026" y="404" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="26" fill="white" font-weight="750" text-anchor="middle">03</text>
+<text x="1067" y="404" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="28" fill="#7B5EA7" font-weight="750" text-anchor="start">規則與人工審核</text>
+<text x="1004" y="451" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#6A7B8A" font-weight="400" text-anchor="start">每個候選值都有依據</text>
+<path d="M1004 470h374" stroke="#E7EDF1"/>
+<g transform="translate(1005 492) scale(1.0416666666666667)" fill="none" stroke="#7B5EA7" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="M3 9h18M9 9v12M12 13h6m-6 4h6"/></g>
+<text x="1047" y="514" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#1B3A5C" font-weight="400" text-anchor="start">顯示原文與來源</text>
+<g transform="translate(1005 538) scale(1.0416666666666667)" fill="none" stroke="#7B5EA7" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="7"/><path d="m15 15 6 6M6 10h8m-4-4v8"/></g>
+<text x="1047" y="560" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#1B3A5C" font-weight="400" text-anchor="start">檢查編碼與時間</text>
+<g transform="translate(1005 584) scale(1.0416666666666667)" fill="none" stroke="#7B5EA7" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m5 5 14 3-7 11L5 5l-1 12 15-9"/><circle cx="5" cy="5" r="2"/><circle cx="19" cy="8" r="2"/><circle cx="12" cy="19" r="2"/><circle cx="4" cy="17" r="2"/></g>
+<text x="1047" y="606" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#1B3A5C" font-weight="400" text-anchor="start">由癌登人員確認</text>
+<g transform="translate(1005 630) scale(1.0416666666666667)" fill="none" stroke="#7B5EA7" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="m7 12 3 3 7-7"/></g>
+<text x="1047" y="652" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#1B3A5C" font-weight="400" text-anchor="start">記錄修正與回饋</text>
+<text x="1423" y="538" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="45" fill="#91A3B4" font-weight="500" text-anchor="middle">›</text>
+<rect x="1444" y="350" width="422" height="346" rx="14" fill="white" stroke="#DFE6EC" filter="url(#shadow)"/>
+<rect x="1464" y="371" width="53" height="48" rx="14" fill="#4CAF7D" stroke="#4CAF7D"/>
+<text x="1490" y="404" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="26" fill="white" font-weight="750" text-anchor="middle">04</text>
+<text x="1531" y="404" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="28" fill="#4CAF7D" font-weight="750" text-anchor="start">交換與成效驗證</text>
+<text x="1468" y="451" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#6A7B8A" font-weight="400" text-anchor="start">FHIR 資料交換 × 成效評估</text>
+<path d="M1468 470h374" stroke="#E7EDF1"/>
+<g transform="translate(1469 492) scale(1.0416666666666667)" fill="none" stroke="#4CAF7D" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="M3 9h18M9 9v12M12 13h6m-6 4h6"/></g>
+<text x="1511" y="514" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#1B3A5C" font-weight="400" text-anchor="start">建立標準交換格式</text>
+<g transform="translate(1469 538) scale(1.0416666666666667)" fill="none" stroke="#4CAF7D" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="7"/><path d="m15 15 6 6M6 10h8m-4-4v8"/></g>
+<text x="1511" y="560" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#1B3A5C" font-weight="400" text-anchor="start">保留癌症治療關聯</text>
+<g transform="translate(1469 584) scale(1.0416666666666667)" fill="none" stroke="#4CAF7D" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m5 5 14 3-7 11L5 5l-1 12 15-9"/><circle cx="5" cy="5" r="2"/><circle cx="19" cy="8" r="2"/><circle cx="12" cy="19" r="2"/><circle cx="4" cy="17" r="2"/></g>
+<text x="1511" y="606" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#1B3A5C" font-weight="400" text-anchor="start">檢視漏案欄位錯誤</text>
+<g transform="translate(1469 630) scale(1.0416666666666667)" fill="none" stroke="#4CAF7D" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="m7 12 3 3 7-7"/></g>
+<text x="1511" y="652" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#1B3A5C" font-weight="400" text-anchor="start">衡量修改比例工時</text>
+<rect x="52" y="724" width="178" height="132" rx="14" fill="#1B3A5C" stroke="#1B3A5C"/>
+<g transform="translate(72 739) scale(1.25)" fill="none" stroke="white" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="M3 9h18M9 9v12M12 13h6m-6 4h6"/></g>
+<text x="72" y="796" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="white" font-weight="700" text-anchor="start">進展與成果</text>
+<text x="72" y="831" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="20" fill="#DAE9F8" font-weight="400" text-anchor="start">目前做到哪裡</text>
+<rect x="244" y="724" width="394" height="132" rx="14" fill="#F5F8FB" stroke="#DFE6EC"/>
+<text x="620" y="761" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="18" fill="#2BAA9E" font-weight="650" text-anchor="end">已有基礎</text>
+<text x="262" y="761" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#1B3A5C" font-weight="700" text-anchor="start">AI 癌登原型</text>
+<text x="262" y="801" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#52687D" font-weight="400" text-anchor="start">發展病歷欄位擷取</text>
+<text x="262" y="837" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#52687D" font-weight="400" text-anchor="start">串接人工審核流程</text>
+<rect x="654" y="724" width="394" height="132" rx="14" fill="#F5F8FB" stroke="#DFE6EC"/>
+<text x="1030" y="761" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="18" fill="#3B7DD8" font-weight="650" text-anchor="end">開發中</text>
+<text x="672" y="761" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#1B3A5C" font-weight="700" text-anchor="start">標準化資料交換</text>
+<text x="672" y="801" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#52687D" font-weight="400" text-anchor="start">發展癌登 FHIR 指引</text>
+<text x="672" y="837" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#52687D" font-weight="400" text-anchor="start">建置格式轉換工具</text>
+<rect x="1064" y="724" width="394" height="132" rx="14" fill="#F5F8FB" stroke="#DFE6EC"/>
+<text x="1440" y="761" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="18" fill="#7B5EA7" font-weight="650" text-anchor="end">驗證中</text>
+<text x="1082" y="761" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#1B3A5C" font-weight="700" text-anchor="start">跨院病歷介接</text>
+<text x="1082" y="801" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#52687D" font-weight="400" text-anchor="start">核對不同院所資料</text>
+<text x="1082" y="837" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#52687D" font-weight="400" text-anchor="start">整理人工修正回饋</text>
+<rect x="1474" y="724" width="394" height="132" rx="14" fill="#F5F8FB" stroke="#DFE6EC"/>
+<text x="1850" y="761" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="18" fill="#4CAF7D" font-weight="650" text-anchor="end">待驗證</text>
+<text x="1492" y="761" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="25" fill="#1B3A5C" font-weight="700" text-anchor="start">成效評估</text>
+<text x="1492" y="801" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#52687D" font-weight="400" text-anchor="start">分別檢視漏案與錯誤</text>
+<text x="1492" y="837" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#52687D" font-weight="400" text-anchor="start">衡量人工修改與工時</text>
+<rect x="52" y="884" width="178" height="139" rx="14" fill="#2BAA9E" stroke="#2BAA9E"/>
+<g transform="translate(72 901) scale(1.3333333333333333)" fill="none" stroke="white" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18M6 16l5-6 4 3 6-8m-5 0h5v5"/></g>
+<text x="72" y="960" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="26" fill="white" font-weight="700" text-anchor="start">研究用途</text>
+<text x="72" y="996" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="21" fill="white" font-weight="400" text-anchor="start">預期貢獻</text>
+<rect x="244" y="884" width="258" height="139" rx="14" fill="white" stroke="#DFE6EC"/>
+<g transform="translate(262 903) scale(1.125)" fill="none" stroke="#2BAA9E" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="7"/><path d="m15 15 6 6M6 10h8m-4-4v8"/></g>
+<text x="303" y="927" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="26" fill="#1B3A5C" font-weight="700" text-anchor="start">減少搬運</text>
+<text x="262" y="978" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#63778B" font-weight="400" text-anchor="start">輔助資料整理</text>
+<rect x="518" y="884" width="258" height="139" rx="14" fill="white" stroke="#DFE6EC"/>
+<g transform="translate(536 903) scale(1.125)" fill="none" stroke="#3B7DD8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="m7 12 3 3 7-7"/></g>
+<text x="577" y="927" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="26" fill="#1B3A5C" font-weight="700" text-anchor="start">證據可查</text>
+<text x="536" y="978" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#63778B" font-weight="400" text-anchor="start">連回原始病歷</text>
+<rect x="792" y="884" width="258" height="139" rx="14" fill="white" stroke="#DFE6EC"/>
+<g transform="translate(810 903) scale(1.125)" fill="none" stroke="#7B5EA7" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m5 5 14 3-7 11L5 5l-1 12 15-9"/><circle cx="5" cy="5" r="2"/><circle cx="19" cy="8" r="2"/><circle cx="12" cy="19" r="2"/><circle cx="4" cy="17" r="2"/></g>
+<text x="851" y="927" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="26" fill="#1B3A5C" font-weight="700" text-anchor="start">專業把關</text>
+<text x="810" y="978" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#63778B" font-weight="400" text-anchor="start">保留人工判斷</text>
+<rect x="1066" y="884" width="258" height="139" rx="14" fill="white" stroke="#DFE6EC"/>
+<g transform="translate(1084 903) scale(1.125)" fill="none" stroke="#4CAF7D" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="M3 9h18M9 9v12M12 13h6m-6 4h6"/></g>
+<text x="1125" y="927" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="26" fill="#1B3A5C" font-weight="700" text-anchor="start">標準交換</text>
+<text x="1084" y="978" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#63778B" font-weight="400" text-anchor="start">串接不同系統</text>
+<rect x="1340" y="884" width="258" height="139" rx="14" fill="white" stroke="#DFE6EC"/>
+<g transform="translate(1358 903) scale(1.125)" fill="none" stroke="#2BAA9E" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18M6 16l5-6 4 3 6-8m-5 0h5v5"/></g>
+<text x="1399" y="927" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="26" fill="#1B3A5C" font-weight="700" text-anchor="start">品質改善</text>
+<text x="1358" y="978" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="#63778B" font-weight="400" text-anchor="start">以錯誤回饋優化</text>
+<rect x="1614" y="884" width="254" height="139" rx="14" fill="#1B3A5C" stroke="#1B3A5C"/>
+<g transform="translate(1634 901) scale(1.25)" fill="none" stroke="white" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m2 22 8-12 5 7 3-4 4 9M10 10V2l10 2-10 3"/></g>
+<text x="1679" y="927" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="27" fill="white" font-weight="700" text-anchor="start">願景</text>
+<text x="1634" y="964" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="white" font-weight="400" text-anchor="start">讓癌症資料更可靠</text>
+<text x="1634" y="997" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="22" fill="white" font-weight="400" text-anchor="start">讓專業判斷更聚焦</text>
+<text x="52" y="1056" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="18" fill="#63778B" font-weight="400" text-anchor="start">林明錦｜臺北醫學大學 · 研究介紹 · 2026.09</text>
+<text x="1868" y="1056" font-family="PingFang TC,Noto Sans TC,Microsoft JhengHei,sans-serif" font-size="18" fill="#63778B" font-weight="400" text-anchor="end">經費來源｜衛生福利部國民健康署（委託辦理）</text>
+</svg>
